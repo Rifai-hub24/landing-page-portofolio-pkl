@@ -76,7 +76,7 @@ Nama: Muhammad Irfan Rifa’i
 Sekolah: SMK Negeri 1 Bantul
 Jurusan: Rekayasa Perangkat Lunak (RPL)
 
-GitHub: [https://github.com/username-irfan](https://github.com/username-irfan)
+GitHub: https://github.com/Rifai-hub24
 
 ---
 
