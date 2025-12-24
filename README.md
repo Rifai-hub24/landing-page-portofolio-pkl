@@ -59,9 +59,9 @@ http://localhost:3000
 
 ![Selamat Datang](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/834b68d6e421d329e8b2be631c41e9efa5057ddf/Screenshot%202025-12-24%20125917.png)
 
-### Halaman Portofolio Irfan
+### Halaman Portofolio Rifa'i
 
-![Portofolio Irfan](./public/screenshot-irfan.jpg)
+![Portofolio Irfan](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/fe6f00599910f8f949c17b354973f7704d08891b/Screenshot%202025-12-24%20130037.png)
 
 ### Sertifikat + GitHub
 
