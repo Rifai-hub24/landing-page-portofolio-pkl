@@ -63,6 +63,15 @@ http://localhost:3000
 
 ![Portofolio Irfan](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/fe6f00599910f8f949c17b354973f7704d08891b/Screenshot%202025-12-24%20130037.png)
 
+### Halaman Portofolio Iqbal
+
+![Portofolio Iqbal](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/fe6f00599910f8f949c17b354973f7704d08891b/Screenshot%202025-12-24%20130037.png)
+
+### Halaman Portofolio Zaki
+
+![Portofolio Zaki](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/fe6f00599910f8f949c17b354973f7704d08891b/Screenshot%202025-12-24%20130037.png)
+
+
 ### Sertifikat + GitHub
 
 ![Sertifikat](./public/screenshot-certificates.jpg)
