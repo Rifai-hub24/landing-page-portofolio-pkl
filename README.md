@@ -1,7 +1,6 @@
-Oke! Saya buatkan **README.md** untuk proyek portofolio Next.js yang mirip format Flutter tadi, lengkap dengan **foto hasil tampilan** dan identitas pengembang:
 
 ````markdown
-# 🌐 Portofolio Muhammad Irfan Rifa’i
+# 🌐 Portofolio Muhammad Irfan Rifa’i,Iqbal fardiansyah,Zacky Noor Faizi
 
 Website portofolio modern menggunakan **Next.js (App Router)** untuk menampilkan profil, sertifikat, dan GitHub.
 
@@ -10,10 +9,10 @@ Website portofolio modern menggunakan **Next.js (App Router)** untuk menampilkan
 ## ✨ Fitur
 
 * 🏠 Halaman Selamat Datang dengan pilihan portofolio anggota tim
-* 👨‍💻 Halaman Portofolio Muhammad Irfan Rifa’i, termasuk:
+* 👨‍💻 Halaman Portofolio Muhammad Irfan Rifa’i,Iqbal fardiansyah,Zacky Noor Faizi termasuk:
   - Foto pribadi
   - Tentang Saya
-  - Sertifikat lengkap (6 sertifikat) + tombol “Lihat PDF”
+  - Sertifikat lengkap (6 atau 5 sertifikat) + tombol “Lihat PDF (opsional)”
   - Link GitHub dengan ikon
 * 🎨 Desain modern dengan **gradasi biru–ungu** dan animasi
 * 🔗 Navigasi mudah antar halaman portofolio
@@ -78,8 +77,19 @@ Jurusan: Rekayasa Perangkat Lunak (RPL)
 
 GitHub: https://github.com/Rifai-hub24
 
+
+Nama: Iqbal fardiansyah
+Sekolah: SMK Negeri 1 Bantul
+Jurusan: Rekayasa Perangkat Lunak (RPL)
+
+GitHub: https://github.com/ballf327
+
+Nama: Zacky Noor Faizi
+Sekolah: SMK Negeri 1 Bantul
+Jurusan: Rekayasa Perangkat Lunak (RPL)
+
+GitHub: https://github.com/jeky32
+
 ---
 
 > Dibuat dengan menggunakan Next.js
-
-```
