@@ -24,7 +24,7 @@ Website portofolio modern menggunakan **Next.js (App Router)** untuk menampilkan
 1. Clone repository ini:
 
 ```sh
-git clone https://github.com/username/landing-page.git
+git clone https://github.com/Rifai-hub24/landing-page-portofolio-pkl.git
 ````
 
 2. Masuk ke folder proyek:
