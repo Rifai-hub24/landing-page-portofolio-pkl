@@ -76,7 +76,7 @@ http://localhost:3000
 
 ![Sertifikat](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/f77fe3ed6aba64d4cc470896d2d5f847b8c10c33/Screenshot%202025-12-24%20130101.png)
 
-![GitHub](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/f77fe3ed6aba64d4cc470896d2d5f847b8c10c33/Screenshot%202025-12-24%20130101.png)
+![GitHub](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/ba89dcfa1d71419867bd58ec82862bd6999297b5/Screenshot%202025-12-24%20130118.png)
 
 ---
 
