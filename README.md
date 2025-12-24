@@ -57,7 +57,7 @@ http://localhost:3000
 
 ### Halaman Selamat Datang
 
-![Selamat Datang](https://raw.githubusercontent.com/Rifai-hub24/landing-page-portofolio-pkl/main/public/screenshot-welcome.jpg)
+![Selamat Datang](https://github.com/Rifai-hub24/landing-page-portofolio-pkl/blob/834b68d6e421d329e8b2be631c41e9efa5057ddf/Screenshot%202025-12-24%20125917.png)
 
 ### Halaman Portofolio Irfan
 
